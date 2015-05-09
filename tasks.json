@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Write Unit Test",
+        "status": false
+    },
+    {
+        "task": "Improve API Ruby",
+        "status": false
+    },
+    {
+        "task": "Study ReactJS",
+        "status": true
+    }
+]
